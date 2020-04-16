@@ -1,2 +1,3 @@
 # Redacted-Public-Release-RAMS-iter-2.3-build-4-Oct-2018
 Repository containing the CIF submission for Research Administrative Management System (RAMS) iter 2.3, build 4 rec Oct 2018.
+RAMS Integration Development project will expand the current RAMS functionality to allow communication among other local committees that are involved in the research compliance process. The RAMS Integration project will develop and implement additional features and functionality to the RAMS infrastructure and software product released into production
